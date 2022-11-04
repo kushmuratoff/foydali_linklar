@@ -11,3 +11,7 @@ Foydali linklar
 ## GitHub :family_man_girl_girl:
 * ReadMe faylga **emoji**lar qo'shish - :point_right: [ma'lumot olish](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
+
+## Image Editor :family_man_girl_girl:
+* Rasmlarni online edit qilish - :point_right: [ma'lumot olish](https://www.photopea.com/)
+
