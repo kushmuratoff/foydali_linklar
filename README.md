@@ -21,7 +21,8 @@ Foydali linklar
 
 
 ## Resume :cold_face:
-* Resume yasash - :point_right: [ma'lumot olish](https://www.jobseeker.com/en)
+* Resume yasash(Jobseeker) - :point_right: [ma'lumot olish](https://www.jobseeker.com/en)
+* Resume yasash(OneApp) - :point_right: [ma'lumot olish](https://oneapp.ly/)
 
 
 ## Web Site :disappointed_relieved:
