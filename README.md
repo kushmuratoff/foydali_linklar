@@ -22,3 +22,7 @@ Foydali linklar
 
 ## Resume :cold_face:
 * Resume yasash - :point_right: [ma'lumot olish](https://www.jobseeker.com/en)
+
+
+## Web Site :disappointed_relieved:
+* Bepul css html templetelar - :point_right: [ma'lumot olish](https://www.free-css.com/free-css-templates)
