@@ -19,3 +19,6 @@ Foydali linklar
 ## Image Editor :family_man_girl_girl:
 * Rasmlarni online edit qilish - :point_right: [ma'lumot olish](https://www.photopea.com/)
 
+
+## Resume :cold_face:
+* Resume yasash - :point_right: [ma'lumot olish](https://www.jobseeker.com/en)
