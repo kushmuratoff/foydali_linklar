@@ -14,6 +14,7 @@ Foydali linklar
 ## GitHub :family_man_girl_girl:
 * ReadMe faylga **emoji**lar qo'shish - :point_right: [ma'lumot olish](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 * GitHubga **lfs(Large File Storge)** da bo'ladiagn muammo yechimi - :point_right: [ma'lumot olish](https://stackoverflow.com/questions/33330771/git-lfs-this-exceeds-githubs-file-size-limit-of-100-00-mb)
+* GitHubga **ssh** key qoshish - :point_right: [ma'lumot olish](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
 
 
 ## Image Editor :family_man_girl_girl:
