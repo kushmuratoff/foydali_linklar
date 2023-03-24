@@ -28,3 +28,6 @@ Foydali linklar
 
 ## Web Site :disappointed_relieved:
 * Bepul css html templetelar - :point_right: [ma'lumot olish](https://www.free-css.com/free-css-templates)
+
+## Telegram Bot
+* Bot orqali userga rasm yuborish - [ma'lumot olsih](https://stackoverflow.com/questions/61923014/how-to-send-photos-on-telegram-with-python)
