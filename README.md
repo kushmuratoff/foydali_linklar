@@ -8,7 +8,7 @@ Foydali linklar
 * Ubuntu 18.04/ 20.04 uchun **Anaconda**ni ustanovkasi - :point_right: [ma'lumot olish](https://www.cloudsigma.com/how-to-install-anaconda-on-ubuntu-18-04-in-six-simple-steps/)
 * Ubuntu 18.04/ 20.04da **wordni pdfga** convert qilish - :point_right: [ma'lumot olish](https://fedingo.com/how-to-convert-docx-to-pdf-in-linux/)
 * Ubuntu 18.04/ 20.04 uchun **Chromedriver**ni ustanovkasi - :point_right: [ma'lumot olish](https://skolo.online/documents/webscrapping/#pre-requisites)
-
+* Ubuntu 20.04 ga **gcc** ni ustanovka qilish - :point_right: [ma'lumot olish](https://itslinuxfoss.com/unable-execute-gcc-no-file-directory/)
 
 
 ## GitHub :family_man_girl_girl:
