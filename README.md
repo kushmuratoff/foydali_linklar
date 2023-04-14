@@ -35,3 +35,6 @@ Foydali linklar
 
 ## Python library :zany_face:
 * **psycopg2**ni **pip** orqali ustonovka qilish - :point_right: [ma'lumot olish](https://stackoverflow.com/questions/5420789/how-to-install-psycopg2-with-pip-on-python)
+
+## Docker :smiling_face_with_tear:
+* docker fileni **build** qilish - :point_right: [ma'lumot olish](https://docs.docker.com/language/python/run-containers/)
