@@ -31,4 +31,7 @@ Foydali linklar
 * Bepul css html templetelar - :point_right: [ma'lumot olish](https://www.free-css.com/free-css-templates)
 
 ## Telegram Bot :money_mouth_face:
-* Bot orqali userga rasm yuborish - :face_with_head_bandage: [ma'lumot olsih](https://stackoverflow.com/questions/61923014/how-to-send-photos-on-telegram-with-python)
+* Bot orqali userga rasm yuborish - :point_right: [ma'lumot olsih](https://stackoverflow.com/questions/61923014/how-to-send-photos-on-telegram-with-python)
+
+## Python library :zany_face:
+* **psycopg2**ni **pip** orqali ustonovka qilish - :point_right: [ma'lumot olish](https://stackoverflow.com/questions/5420789/how-to-install-psycopg2-with-pip-on-python)
