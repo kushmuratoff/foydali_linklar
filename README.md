@@ -41,3 +41,6 @@ https://peterkariukimutuura.medium.com/how-to-add-ssh-key-to-an-existing-digital
 
 ## Droplet :smiling_face_with_tear:
 * Dropletga **ssh** qo'shish - :point_right: [ma'lumot olish](https://peterkariukimutuura.medium.com/how-to-add-ssh-key-to-an-existing-digital-ocean-droplet-785641f00092)
+
+## RabbitMQ :smiling_face_with_tear:
+* RabbitMQga **yangi port** qo'shish - :point_right: [ma'lumot olish](https://www.rabbitmq.com/networking.html)
