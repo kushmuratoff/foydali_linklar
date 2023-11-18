@@ -43,3 +43,6 @@ Foydali linklar
 
 ## RabbitMQ :smiling_face_with_tear:
 * RabbitMQga **yangi port** qo'shish - :point_right: [ma'lumot olish](https://www.rabbitmq.com/networking.html)
+
+## AWS :smiling_face_with_tear:
+* AWSga fayllarni **terminal** orqali yuklash - :point_right: [ma'lumot olish](https://medium.com/@josemanuel.gilperez/uploading-files-to-an-s3-bucket-using-aws-cli-4ac89a0b024b)
