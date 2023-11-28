@@ -46,3 +46,6 @@ Foydali linklar
 
 ## AWS :smiling_face_with_tear:
 * AWSga fayllarni **terminal** orqali yuklash - :point_right: [ma'lumot olish](https://medium.com/@josemanuel.gilperez/uploading-files-to-an-s3-bucket-using-aws-cli-4ac89a0b024b)
+
+## Movies :zany_face:
+* Interstellar-2014 - :point_right: [ma'lumot olish](https://kinogo.blue/filmy/130-interstellar-2014.html)
