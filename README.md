@@ -49,3 +49,4 @@ Foydali linklar
 
 ## Movies :zany_face:
 * Interstellar-2014 - :point_right: [ma'lumot olish](https://kinogo.blue/filmy/130-interstellar-2014.html)
+* Friends-1994 - :point_right: [ma'lumot olish](https://theflixer.tv/watch-tv/watch-friends-full-39473.4869238)
