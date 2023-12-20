@@ -48,5 +48,6 @@ Foydali linklar
 * AWSga fayllarni **terminal** orqali yuklash - :point_right: [ma'lumot olish](https://medium.com/@josemanuel.gilperez/uploading-files-to-an-s3-bucket-using-aws-cli-4ac89a0b024b)
 
 ## Movies :zany_face:
-* Interstellar-2014 - :point_right: [ma'lumot olish](https://kinogo.blue/filmy/130-interstellar-2014.html)
-* Friends-1994 - :point_right: [ma'lumot olish](https://theflixer.tv/watch-tv/watch-friends-full-39473.4869238)
+* Interstellar-2014 - :point_right: [ko'rish](https://kinogo.blue/filmy/130-interstellar-2014.html)
+* Friends-1994 - :point_right: [ko'rish](https://theflixer.tv/watch-tv/watch-friends-full-39473.4869238)
+* Слово пацана 1 сезон (2023) - :point_right: [ko'rish](https://kinogo.inc/crime/20541-slovo-pacana-1-sezon.html)
